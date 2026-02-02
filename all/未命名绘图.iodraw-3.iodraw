@@ -49,7 +49,7 @@
           <mxGeometry x="197.5" y="230" width="215" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-17" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#bdbdbd;" vertex="1" parent="1">
-          <mxGeometry x="10" y="310" width="590" height="210" as="geometry" />
+          <mxGeometry x="10" y="310" width="590" height="280" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="510" height="260" as="geometry" />
@@ -69,7 +69,7 @@
         <mxCell id="AK_SQGlF5VQmit-2wp-I-28" value="&lt;span id=&quot;docs-internal-guid-b11dd8d2-7fff-a807-2123-410b5c4ad201&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Google Sans&amp;quot;, sans-serif; color: rgb(31, 31, 31); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;大规模问卷调查法&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="90" y="478" width="490" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="AK_SQGlF5VQmit-2wp-I-29" value="&lt;span id=&quot;docs-internal-guid-b11dd8d2-7fff-a807-2123-410b5c4ad201&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Google Sans&amp;quot;, sans-serif; color: rgb(31, 31, 31); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;大规模问卷调查法&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="AK_SQGlF5VQmit-2wp-I-29" value="&lt;span id=&quot;docs-internal-guid-e431daea-7fff-e4f9-47c5-3bba288119ed&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Google Sans&amp;quot;, sans-serif; color: rgb(31, 31, 31); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;典型案例剖析法&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="90" y="530" width="490" height="42" as="geometry" />
         </mxCell>
       </root>
