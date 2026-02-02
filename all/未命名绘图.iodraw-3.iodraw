@@ -49,31 +49,31 @@
           <mxGeometry x="197.5" y="230" width="215" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-17" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#bdbdbd;" vertex="1" parent="1">
-          <mxGeometry x="20" y="70" width="590" height="140" as="geometry" />
+          <mxGeometry x="10" y="310" width="590" height="140" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="80" width="510" height="120" as="geometry" />
+          <mxGeometry x="80" y="320" width="510" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="AK_SQGlF5VQmit-2wp-I-19" value="问&lt;div style=&quot;font-size: 19px;&quot;&gt;题&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;背&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;景&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="30" y="80" width="50" height="120" as="geometry" />
+        <mxCell id="AK_SQGlF5VQmit-2wp-I-19" value="深&lt;div&gt;度&lt;div&gt;访&lt;div&gt;谈&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="20" y="320" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-20" value="时代需求" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="100" y="88" width="160" height="50" as="geometry" />
+          <mxGeometry x="90" y="328" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-21" value="核心资源" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="265" y="88" width="160" height="50" as="geometry" />
+          <mxGeometry x="255" y="328" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-22" value="现实困境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="430" y="88" width="160" height="50" as="geometry" />
+          <mxGeometry x="420" y="328" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-23" value="独特地位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="100" y="142" width="160" height="50" as="geometry" />
+          <mxGeometry x="90" y="382" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-24" value="数字传承" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="265" y="142" width="160" height="50" as="geometry" />
+          <mxGeometry x="255" y="382" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-25" value="诸多挑战" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="430" y="142" width="160" height="50" as="geometry" />
+          <mxGeometry x="420" y="382" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
