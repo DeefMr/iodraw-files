@@ -13,8 +13,8 @@
         <mxCell id="AK_SQGlF5VQmit-2wp-I-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="70" width="510" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="AK_SQGlF5VQmit-2wp-I-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="70" width="50" height="60" as="geometry" />
+        <mxCell id="AK_SQGlF5VQmit-2wp-I-5" value="问&lt;div&gt;题&lt;/div&gt;&lt;div&gt;背&lt;/div&gt;&lt;div&gt;景&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="70" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
