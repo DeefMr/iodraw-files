@@ -133,36 +133,36 @@
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="315" y="710" as="targetPoint" />
-            <mxPoint x="315" y="680" as="sourcePoint" />
+            <mxPoint x="305" y="1009" as="targetPoint" />
+            <mxPoint x="305" y="979" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-48" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#bdbdbd;" vertex="1" parent="1">
-          <mxGeometry x="20" y="710" width="590" height="140" as="geometry" />
+          <mxGeometry x="10" y="1009" width="590" height="140" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="720" width="510" height="120" as="geometry" />
+          <mxGeometry x="80" y="1019" width="510" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-50" value="实&lt;div&gt;地&lt;div&gt;观&lt;div&gt;察&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="30" y="720" width="50" height="120" as="geometry" />
+          <mxGeometry x="20" y="1019" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-51" value="游客活动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="100" y="728" width="160" height="50" as="geometry" />
+          <mxGeometry x="90" y="1027" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-52" value="消费情况" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="265" y="728" width="160" height="50" as="geometry" />
+          <mxGeometry x="255" y="1027" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-53" value="环境状况" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="430" y="728" width="160" height="50" as="geometry" />
+          <mxGeometry x="420" y="1027" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-54" value="建设情况" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="100" y="782" width="160" height="50" as="geometry" />
+          <mxGeometry x="90" y="1081" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-55" value="面临困境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="265" y="782" width="160" height="50" as="geometry" />
+          <mxGeometry x="255" y="1081" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-56" value="其他地市解决方案" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="430" y="782" width="160" height="50" as="geometry" />
+          <mxGeometry x="420" y="1081" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
