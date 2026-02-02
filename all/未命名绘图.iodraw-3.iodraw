@@ -48,14 +48,14 @@
         <mxCell id="AK_SQGlF5VQmit-2wp-I-15" value="实地调研、数据分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="197.5" y="230" width="215" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AK_SQGlF5VQmit-2wp-I-17" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#bdbdbd;" vertex="1" parent="1">
+        <mxCell id="AK_SQGlF5VQmit-2wp-I-17" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeColor=#bdbdbd;" vertex="1" parent="1">
           <mxGeometry x="10" y="310" width="590" height="280" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="510" height="260" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-19" value="调&lt;div&gt;查&lt;div&gt;方&lt;div&gt;法&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="20" y="320" width="50" height="120" as="geometry" />
+          <mxGeometry x="20" y="320" width="50" height="260" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-20" value="&lt;span id=&quot;docs-internal-guid-23480928-7fff-3453-92df-0ff9897a9fd8&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Google Sans&amp;quot;, sans-serif; color: rgb(31, 31, 31); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;深度文献分析与政策跟踪法&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="90" y="328" width="490" height="42" as="geometry" />
