@@ -140,17 +140,14 @@
         <mxCell id="AK_SQGlF5VQmit-2wp-I-48" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#bdbdbd;" vertex="1" parent="1">
           <mxGeometry x="10" y="1009" width="590" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="AK_SQGlF5VQmit-2wp-I-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1019" width="510" height="120" as="geometry" />
+        <mxCell id="AK_SQGlF5VQmit-2wp-I-49" value="调研完成后的阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1019" width="570" height="41" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-51" value="游客活动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="90" y="1027" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-52" value="消费情况" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="255" y="1027" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="AK_SQGlF5VQmit-2wp-I-53" value="环境状况" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1027" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-54" value="建设情况" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="90" y="1081" width="160" height="50" as="geometry" />
