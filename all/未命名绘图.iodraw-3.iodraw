@@ -122,6 +122,15 @@
         <mxCell id="AK_SQGlF5VQmit-2wp-I-44" value="&lt;font face=&quot;Google Sans, sans-serif&quot; color=&quot;#1f1f1f&quot;&gt;&lt;span style=&quot;font-size: 24px; white-space-collapse: preserve;&quot;&gt;&lt;b&gt;进行第二轮访谈及观察，探究研报可行性&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="870" width="590" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AK_SQGlF5VQmit-2wp-I-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="304.88" y="940" as="targetPoint" />
+            <mxPoint x="304.88" y="910" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AK_SQGlF5VQmit-2wp-I-46" value="&lt;font face=&quot;Google Sans, sans-serif&quot; color=&quot;#1f1f1f&quot;&gt;&lt;span style=&quot;font-size: 24px; white-space-collapse: preserve;&quot;&gt;&lt;b&gt;进行第二轮访谈及观察，探究研报可行性&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="939" width="590" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
