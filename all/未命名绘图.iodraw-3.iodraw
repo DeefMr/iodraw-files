@@ -40,8 +40,13 @@
             <mxPoint x="305" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AK_SQGlF5VQmit-2wp-I-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AK_SQGlF5VQmit-2wp-I-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-15" value="实地调研、数据分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="225" y="230" width="160" height="50" as="geometry" />
+          <mxGeometry x="197.5" y="230" width="215" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
