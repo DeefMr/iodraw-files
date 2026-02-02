@@ -140,7 +140,7 @@
         <mxCell id="AK_SQGlF5VQmit-2wp-I-48" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#bdbdbd;" vertex="1" parent="1">
           <mxGeometry x="10" y="1009" width="590" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="AK_SQGlF5VQmit-2wp-I-49" value="调研完成后的阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AK_SQGlF5VQmit-2wp-I-49" value="调研完成后的阶段" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="20" y="1019" width="570" height="41" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-54" value="将相关可行性意见和建议反馈至政府、企业及社区" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
