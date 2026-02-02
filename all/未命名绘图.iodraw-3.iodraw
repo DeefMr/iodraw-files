@@ -58,22 +58,7 @@
           <mxGeometry x="20" y="320" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-20" value="时代需求" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="90" y="328" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="AK_SQGlF5VQmit-2wp-I-21" value="核心资源" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="255" y="328" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="AK_SQGlF5VQmit-2wp-I-22" value="现实困境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="420" y="328" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="AK_SQGlF5VQmit-2wp-I-23" value="独特地位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="90" y="382" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="AK_SQGlF5VQmit-2wp-I-24" value="数字传承" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="255" y="382" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="AK_SQGlF5VQmit-2wp-I-25" value="诸多挑战" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="420" y="382" width="160" height="50" as="geometry" />
+          <mxGeometry x="90" y="328" width="490" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
