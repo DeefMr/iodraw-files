@@ -136,7 +136,19 @@
           <mxGeometry x="340" y="1331" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-59" value="多智能体系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;verticalAlign=top;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="30" y="835" width="450" height="175" as="geometry" />
+          <mxGeometry x="130" y="840" width="350" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="AK_SQGlF5VQmit-2wp-I-60" value="行为仿真模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="885" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AK_SQGlF5VQmit-2wp-I-61" value="用户行为建模" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="955" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AK_SQGlF5VQmit-2wp-I-62" value="数字资源优化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="310" y="885" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AK_SQGlF5VQmit-2wp-I-63" value="模拟推演" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="310" y="955" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
