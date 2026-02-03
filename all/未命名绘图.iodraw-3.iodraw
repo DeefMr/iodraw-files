@@ -67,10 +67,10 @@
           <mxGeometry x="90" y="380" width="150" height="42" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-28" value="&lt;span id=&quot;docs-internal-guid-b11dd8d2-7fff-a807-2123-410b5c4ad201&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Google Sans&amp;quot;, sans-serif; color: rgb(31, 31, 31); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;大规模问卷调查法&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="90" y="478" width="490" height="42" as="geometry" />
+          <mxGeometry x="250" y="380" width="170" height="42" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-29" value="&lt;span id=&quot;docs-internal-guid-e431daea-7fff-e4f9-47c5-3bba288119ed&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Google Sans&amp;quot;, sans-serif; color: rgb(31, 31, 31); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;典型案例剖析法&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="90" y="530" width="490" height="42" as="geometry" />
+          <mxGeometry x="440" y="530" width="140" height="42" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
