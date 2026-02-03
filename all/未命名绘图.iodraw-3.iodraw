@@ -58,10 +58,10 @@
           <mxGeometry x="20" y="320" width="50" height="260" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-20" value="&lt;span id=&quot;docs-internal-guid-23480928-7fff-3453-92df-0ff9897a9fd8&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Google Sans&amp;quot;, sans-serif; color: rgb(31, 31, 31); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;深度文献分析与政策跟踪法&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="90" y="328" width="490" height="42" as="geometry" />
+          <mxGeometry x="90" y="328" width="250" height="42" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-26" value="&lt;span id=&quot;docs-internal-guid-6d0a1f1a-7fff-52fb-e745-53b76611ab55&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Google Sans&amp;quot;, sans-serif; color: rgb(31, 31, 31); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;实地踏勘与参与式观察法&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="90" y="380" width="490" height="42" as="geometry" />
+          <mxGeometry x="340" y="380" width="240" height="42" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-27" value="&lt;span id=&quot;docs-internal-guid-776a4fc1-7fff-94d9-1284-de0c23104e4e&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Google Sans&amp;quot;, sans-serif; color: rgb(31, 31, 31); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;深度访谈&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="90" y="430" width="490" height="42" as="geometry" />
