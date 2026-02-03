@@ -78,13 +78,8 @@
             <mxPoint x="305" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AK_SQGlF5VQmit-2wp-I-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AK_SQGlF5VQmit-2wp-I-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="305" y="700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-31" value="生成式人工智能赋能" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="197.5" y="620" width="215" height="50" as="geometry" />
+          <mxGeometry x="560" y="572" width="215" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-34" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#bdbdbd;" vertex="1" parent="1">
           <mxGeometry x="10" y="700" width="590" height="140" as="geometry" />
