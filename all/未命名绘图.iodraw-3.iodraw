@@ -155,10 +155,10 @@
         <mxCell id="AK_SQGlF5VQmit-2wp-I-63" value="模拟推演" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="305" y="805" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AK_SQGlF5VQmit-2wp-I-64" value="数据" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="AK_SQGlF5VQmit-2wp-I-64" value="数据" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="5" y="740" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AK_SQGlF5VQmit-2wp-I-65" value="智能" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;flipH=1;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="AK_SQGlF5VQmit-2wp-I-65" value="智能" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;flipH=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="475" y="740" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
