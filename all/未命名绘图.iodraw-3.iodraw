@@ -79,7 +79,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-31" value="生成式人工智能赋能" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;arcSize=0;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="110" y="800" width="430" height="220" as="geometry" />
+          <mxGeometry x="70" y="800" width="470" height="220" as="geometry" />
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AK_SQGlF5VQmit-2wp-I-34" target="AK_SQGlF5VQmit-2wp-I-31">
           <mxGeometry relative="1" as="geometry" />
@@ -149,6 +149,9 @@
         </mxCell>
         <mxCell id="AK_SQGlF5VQmit-2wp-I-63" value="模拟推演" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="310" y="955" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AK_SQGlF5VQmit-2wp-I-64" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="890" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
